@@ -1,0 +1,13 @@
+title: Detect Any PowerShell Activity
+id: 12345678-abcd-1234-efgh-12345678ijkl
+status: experimental
+description: Detects any activity related to PowerShell including script execution
+author: Raunak Singh
+detection:
+    selection:
+        provider_name:
+            - "PowerShell"
+    condition: selection
+
+falsepositives:
+    - Legitimate administrative scripts and commands
