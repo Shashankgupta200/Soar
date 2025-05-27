@@ -4,12 +4,12 @@ go 1.23.0
 
 toolchain go1.24.1
 
-replace github.com/Shashankgupta200/Soar/soar-shared => ../
+replace github.com/Shashankgupta200/Soar/tree/main/soar-shared => ../
 
 require (
 	cloud.google.com/go/storage v1.39.1
 	github.com/docker/docker v27.5.0+incompatible
-	github.com/Shashankgupta200/Soar/soar-shared v0.3.60
+	github.com/Shashankgupta200/Soar/tree/main/soar-shared v0.3.60
 	google.golang.org/api v0.228.0
 	gopkg.in/yaml.v2 v2.4.0
 )

@@ -1,7 +1,7 @@
 ## AWS IAM App
 Aws IAM (Identity and Access Management) app for managing IAM operations from the soar.
 
-![alt_text](https://github.com/Shashankgupta200/Soar/python-apps/blob/master/aws-iam/1.0.0/aws-iam.png?raw=true)
+![alt_text](https://github.com/Shashankgupta200/Soar/tree/main/python-apps/blob/master/aws-iam/1.0.0/aws-iam.png?raw=true)
 
 ## Actions
 

@@ -3,7 +3,7 @@ A directory to be used for OpenAPI specifications and Documentation. Contains ju
 
 **[More than 2500 apps on soarr.io/search](https://soarr.io/search)**
 
-<img width="837" alt="image" src="https://github.com/Shashankgupta200/Soar/openapi-apps/assets/5719530/b7338d51-35bc-4f76-8daf-5d7b44c5ce17">
+<img width="837" alt="image" src="https://github.com/Shashankgupta200/Soar/tree/main/openapi-apps/assets/5719530/b7338d51-35bc-4f76-8daf-5d7b44c5ce17">
 
 ## Why?
 OpenAPI definitions are usually well hidden on vendors' websites where I've dug some of them up, before adding them here.

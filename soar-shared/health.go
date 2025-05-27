@@ -1398,7 +1398,7 @@ func RunOpsAppUpload(apiKey string, orgId string) (AppHealth, error){
 		ExecutionID: "",
 	}
 
-	appZipUrl := "https://github.com/Shashankgupta200/Soar/python-apps/raw/refs/heads/master/soar-tools-copy.zip"
+	appZipUrl := "https://github.com/Shashankgupta200/Soar/tree/main/python-apps/raw/refs/heads/master/soar-tools-copy.zip"
 
 	resp, err := http.Get(appZipUrl)
 	if err != nil {

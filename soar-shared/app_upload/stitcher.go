@@ -1,11 +1,11 @@
 package main
 
-// This is intended to upload apps from https://github.com/Shashankgupta200/Soar/python-apps to the cloud instance of soar (https://soarr.io). It does so by looping and finding all the apps, building the code with the SDK, and serving it as a Cloud Function.
+// This is intended to upload apps from https://github.com/Shashankgupta200/Soar/tree/main/python-apps to the cloud instance of soar (https://soarr.io). It does so by looping and finding all the apps, building the code with the SDK, and serving it as a Cloud Function.
 
 // This can be used to update normal apps, but app-creator apps should be updated by the shaffuru/functions/cloud_scripts/update_functions.go script in case there is a new App SDK.
 
 import (
-	"github.com/Shashankgupta200/Soar/soar-shared"
+	"github.com/Shashankgupta200/Soar/tree/main/soar-shared"
 
 	"archive/zip"
 	"runtime"

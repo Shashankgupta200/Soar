@@ -45,14 +45,14 @@ To enable your app to access Defender for Cloud Apps and assign it 'Read all ale
 
 Finally, Grant Admin Consent and you should be set up on your azure portal side.
 
-![image](https://github.com/Shashankgupta200/Soar/openapi-apps/assets/31187099/f3ee115f-6e2b-4b00-9cdb-38571f96cacf)
+![image](https://github.com/Shashankgupta200/Soar/tree/main/openapi-apps/assets/31187099/f3ee115f-6e2b-4b00-9cdb-38571f96cacf)
 
 
 You need to select the relevant permissions. To determine which permission you need, look at the Permissions section in the API you're interested to call. See [Supported Permissions Scopes](https://learn.microsoft.com/en-us/defender-cloud-apps/api-authentication-application#supported-permission-scopes)
 
 Select Grant admin consent. Every time you add a permission, you must select Grant admin consent for it to take effect.
 
-![image](https://github.com/Shashankgupta200/Soar/openapi-apps/assets/31187099/37630f62-72e9-4da4-b680-88499c69d756)
+![image](https://github.com/Shashankgupta200/Soar/tree/main/openapi-apps/assets/31187099/37630f62-72e9-4da4-b680-88499c69d756)
 
 
 Here are the parts that we'll need to configure. The Tenant ID and Client ID are available right away. 
@@ -76,7 +76,7 @@ Set up your TENANT_ID in the Token url parameter provided.
 
 Ensure that the only scope you have under the scopes parameter is ``` .default ```
 
-![image](https://github.com/Shashankgupta200/Soar/openapi-apps/assets/31187099/bb551b7c-734e-4657-84b1-facd4c1454d3)
+![image](https://github.com/Shashankgupta200/Soar/tree/main/openapi-apps/assets/31187099/bb551b7c-734e-4657-84b1-facd4c1454d3)
 
 
 When done, scroll all the way to the bottom of the page and click Save.

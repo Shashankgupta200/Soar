@@ -13,7 +13,7 @@ func GetPublicDetections() []DetectionResponse {
 			DetectionInfo:     []DetectionFileInfo{},
 			FolderDisabled:    false,
 			IsConnectorActive: false,
-			DownloadRepo:      "https://github.com/Shashankgupta200/Soar/security-rules",
+			DownloadRepo:      "https://github.com/Shashankgupta200/Soar/tree/main/security-rules",
 		},
 		DetectionResponse{
 			Title:             "Sublime Email Detection",
@@ -22,7 +22,7 @@ func GetPublicDetections() []DetectionResponse {
 			DetectionInfo:     []DetectionFileInfo{},
 			FolderDisabled:    false,
 			IsConnectorActive: false,
-			DownloadRepo:      "https://github.com/Shashankgupta200/Soar/security-rules",
+			DownloadRepo:      "https://github.com/Shashankgupta200/Soar/tree/main/security-rules",
 		},
 		DetectionResponse{
 			Title:             "File Detection",
@@ -31,7 +31,7 @@ func GetPublicDetections() []DetectionResponse {
 			DetectionInfo:     []DetectionFileInfo{},
 			FolderDisabled:    false,
 			IsConnectorActive: false,
-			DownloadRepo:      "https://github.com/Shashankgupta200/Soar/security-rules",
+			DownloadRepo:      "https://github.com/Shashankgupta200/Soar/tree/main/security-rules",
 		},
 	}
 }

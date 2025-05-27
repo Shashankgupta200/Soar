@@ -9,11 +9,11 @@ Authentication in WithSecure Elements is done using Oauth2 with Application Perm
 
 You can find these in the WithSecure Elements portal by logging in and going to the bottom left corner. 
 
-<img width="533" alt="image" src="https://github.com/Shashankgupta200/Soar/openapi-apps/assets/5719530/b48515af-307b-463b-abca-c63088cc4f7a">
+<img width="533" alt="image" src="https://github.com/Shashankgupta200/Soar/tree/main/openapi-apps/assets/5719530/b48515af-307b-463b-abca-c63088cc4f7a">
 
 From here, you can use the Client ID and Secret to authenticate the app in the Soar UI. 
 
-<img width="339" alt="image" src="https://github.com/Shashankgupta200/Soar/openapi-apps/assets/5719530/98479d28-d325-4dc3-b85b-7c21fc42435e">
+<img width="339" alt="image" src="https://github.com/Shashankgupta200/Soar/tree/main/openapi-apps/assets/5719530/98479d28-d325-4dc3-b85b-7c21fc42435e">
 
 After it's authenticated, try an action to see if you get a 200 OK. 
 

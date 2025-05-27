@@ -2,7 +2,7 @@
 - An app to interact with an excel file from Soar using Microsoft Graph Api.
 - This app will help to insert, update and clear data of an excel workbook.
 
-![App_image](https://github.com/Shashankgupta200/Soar/python-apps/blob/master/microsoft-excel/1.0.0/Microsoft_excel.png?raw=true)
+![App_image](https://github.com/Shashankgupta200/Soar/tree/main/python-apps/blob/master/microsoft-excel/1.0.0/Microsoft_excel.png?raw=true)
 
 ## Actions
 - #### Get_user_id

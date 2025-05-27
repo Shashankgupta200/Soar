@@ -12,7 +12,7 @@ To get these, follow this guide from Google [https://developers.google.com/ident
 
 **PS: The App in Google Cloud needs to be in EXTERNAL mode, and be set to Production. Refresh Tokens WILL time out after some time otherwise.**
 
-![image](https://github.com/Shashankgupta200/Soar/openapi-apps/assets/5719530/e5830e85-b3bf-4f8c-9047-99ea66b110cd)
+![image](https://github.com/Shashankgupta200/Soar/tree/main/openapi-apps/assets/5719530/e5830e85-b3bf-4f8c-9047-99ea66b110cd)
 
 When you have them, fill them in as such:
 ![image](https://user-images.githubusercontent.com/5719530/160306577-9fc973ab-328f-4005-a036-43589a2e2690.png)

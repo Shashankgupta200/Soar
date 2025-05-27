@@ -14,4 +14,4 @@ To use the vault in Soar, make sure:
 
 When these are done, fill it in on the Soar side, and you should be able to start using the app.
 
-<img width="315" alt="image" src="https://github.com/Shashankgupta200/Soar/openapi-apps/assets/5719530/67807532-70d6-4e2e-8a05-330795348884">
+<img width="315" alt="image" src="https://github.com/Shashankgupta200/Soar/tree/main/openapi-apps/assets/5719530/67807532-70d6-4e2e-8a05-330795348884">

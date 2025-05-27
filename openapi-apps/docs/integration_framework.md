@@ -3,7 +3,7 @@ The Integration Framework AI is a BETA app that allows you to do standard action
 
 This app uses AI through large language models, and the app running under the hood uses [Soar's Integration Layer API](https://soarr.io/docs/API#integration-layer).
 
-<img width="421" alt="image" src="https://github.com/Shashankgupta200/Soar/openapi-apps/assets/5719530/299252ed-2f2b-4658-8f05-a7386d44f326">
+<img width="421" alt="image" src="https://github.com/Shashankgupta200/Soar/tree/main/openapi-apps/assets/5719530/299252ed-2f2b-4658-8f05-a7386d44f326">
 
 ## Why
 Most people are not API experts. What this means is that there is a huge demand for self-building workflows that solve problems fast. The most notable easy

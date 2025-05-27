@@ -32,4 +32,4 @@ By default, pfSense API uses the same credentials as the webConfigurator. This b
 CLIENT_ID_HERE CLIENT_TOKEN_HERE
 ```
 
-![image](https://github.com/Shashankgupta200/Soar/openapi-apps/assets/31187099/22fec92b-5200-462f-a908-d1e1aaf683cf)
+![image](https://github.com/Shashankgupta200/Soar/tree/main/openapi-apps/assets/31187099/22fec92b-5200-462f-a908-d1e1aaf683cf)

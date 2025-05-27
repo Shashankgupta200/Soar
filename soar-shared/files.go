@@ -642,7 +642,7 @@ func HandleGetFileNamespace(resp http.ResponseWriter, request *http.Request) {
 	if filenameOk && ArrayContains(reservedCategoryNames, namespace) {
 		//log.Printf("[DEBUG] Filename '%s' in URL with reserved category name: %s. Listlength: %d", filename[0], namespace, len(fileResponse.List))
 
-		// Load from Github repo https://github.com/Shashankgupta200/Soar/standards
+		// Load from Github repo https://github.com/Shashankgupta200/Soar/tree/main/standards
 		filenameFound := false
 		parsedFilename := strings.TrimSpace(strings.Replace(strings.ToLower(filename[0]), " ", "_", -1))
 		if strings.HasSuffix(parsedFilename, ".json") {

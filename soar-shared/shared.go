@@ -19433,7 +19433,7 @@ func GetDocs(resp http.ResponseWriter, request *http.Request) {
 		if downloadLocation[0] == "openapi" {
 			newname = strings.ReplaceAll(strings.ToLower(location[4]), `%20`, "_")
 			docPath = fmt.Sprintf("https://raw.githubusercontent.com/Soar/openapi-apps/master/docs/%s.md", newname)
-			realPath = fmt.Sprintf("https://github.com/Shashankgupta200/Soar/openapi-apps/blob/master/docs/%s.md", newname)
+			realPath = fmt.Sprintf("https://github.com/Shashankgupta200/Soar/tree/main/openapi-apps/blob/master/docs/%s.md", newname)
 
 		} else if downloadLocation[0] == "python" && versionOk {
 			// Apparently this uses dashes for no good reason?
@@ -19445,12 +19445,12 @@ func GetDocs(resp http.ResponseWriter, request *http.Request) {
 
 			if version[0] == "1.0.0" {
 				docPath = fmt.Sprintf("https://raw.githubusercontent.com/Soar/python-apps/master/%s/1.0.0/README.md", newname)
-				realPath = fmt.Sprintf("https://github.com/Shashankgupta200/Soar/python-apps/blob/master/%s/1.0.0/README.md", newname)
+				realPath = fmt.Sprintf("https://github.com/Shashankgupta200/Soar/tree/main/python-apps/blob/master/%s/1.0.0/README.md", newname)
 
 				log.Printf("[INFO] Should download python app for version %s: %s", version[0], docPath)
 
 			} else {
-				realPath = fmt.Sprintf("https://github.com/Shashankgupta200/Soar/python-apps/blob/master/%s/README.md", newname)
+				realPath = fmt.Sprintf("https://github.com/Shashankgupta200/Soar/tree/main/python-apps/blob/master/%s/README.md", newname)
 				docPath = fmt.Sprintf("https://raw.githubusercontent.com/Soar/python-apps/master/%s/README.md", newname)
 			}
 
@@ -19702,7 +19702,7 @@ func GetArticles(resp http.ResponseWriter, request *http.Request) {
 		if downloadLocation[0] == "openapi" {
 			newname = strings.ReplaceAll(strings.ToLower(location[4]), `%20`, "_")
 			docPath = fmt.Sprintf("https://raw.githubusercontent.com/Soar/openapi-apps/master/docs/%s.md", newname)
-			realPath = fmt.Sprintf("https://github.com/Shashankgupta200/Soar/openapi-apps/blob/master/docs/%s.md", newname)
+			realPath = fmt.Sprintf("https://github.com/Shashankgupta200/Soar/tree/main/openapi-apps/blob/master/docs/%s.md", newname)
 
 		} else if downloadLocation[0] == "python" && versionOk {
 			// Apparently this uses dashes for no good reason?
@@ -19714,12 +19714,12 @@ func GetArticles(resp http.ResponseWriter, request *http.Request) {
 
 			if version[0] == "1.0.0" {
 				docPath = fmt.Sprintf("https://raw.githubusercontent.com/Soar/python-apps/master/%s/1.0.0/README.md", newname)
-				realPath = fmt.Sprintf("https://github.com/Shashankgupta200/Soar/python-apps/blob/master/%s/1.0.0/README.md", newname)
+				realPath = fmt.Sprintf("https://github.com/Shashankgupta200/Soar/tree/main/python-apps/blob/master/%s/1.0.0/README.md", newname)
 
 				log.Printf("[INFO] Should download python app for version %s: %s", version[0], docPath)
 
 			} else {
-				realPath = fmt.Sprintf("https://github.com/Shashankgupta200/Soar/python-apps/blob/master/%s/README.md", newname)
+				realPath = fmt.Sprintf("https://github.com/Shashankgupta200/Soar/tree/main/python-apps/blob/master/%s/README.md", newname)
 				docPath = fmt.Sprintf("https://raw.githubusercontent.com/Soar/python-apps/master/%s/README.md", newname)
 			}
 

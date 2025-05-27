@@ -14,6 +14,6 @@
 
 ### The API key appears onscreen as shown below. Use this API key for all AutoFocus API requests.
 
-![image](https://github.com/Shashankgupta200/Soar/openapi-apps/assets/31187099/d3e5d3bf-7956-47af-9ab6-f13b90445363)
+![image](https://github.com/Shashankgupta200/Soar/tree/main/openapi-apps/assets/31187099/d3e5d3bf-7956-47af-9ab6-f13b90445363)
 
 After you Get Your API Key, use that API key to make your first calls to the AutoFocus API.

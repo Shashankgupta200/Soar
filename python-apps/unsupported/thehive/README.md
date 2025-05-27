@@ -2,7 +2,7 @@
 
 ## Configuration
 
-![conf](https://github.com/Shashankgupta200/Soar/python-apps/blob/master/thehive/conf.png?raw=true)
+![conf](https://github.com/Shashankgupta200/Soar/tree/main/python-apps/blob/master/thehive/conf.png?raw=true)
 
 ### Thehive3
 - Leave **Organisation** empty

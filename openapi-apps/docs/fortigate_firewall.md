@@ -18,12 +18,12 @@ Authorization: Bearer <your_api_key>
 
 2. Once step one above is done, jump into your Soar workflow. Drag in the Fortigate App into your workflow then click on it.
 
-![Screenshot 2023-09-04 105940](https://github.com/Shashankgupta200/Soar/openapi-apps/assets/31187099/b0cfa803-d177-4094-87d1-b08978789a60)
+![Screenshot 2023-09-04 105940](https://github.com/Shashankgupta200/Soar/tree/main/openapi-apps/assets/31187099/b0cfa803-d177-4094-87d1-b08978789a60)
 
 
 3. Click authenticate fortigate firewall. Add the fortigate console url. Click on submit once done.
 
-![image](https://github.com/Shashankgupta200/Soar/openapi-apps/assets/31187099/8095f799-d2c4-4f72-8973-0d50977b6bfa)
+![image](https://github.com/Shashankgupta200/Soar/tree/main/openapi-apps/assets/31187099/8095f799-d2c4-4f72-8973-0d50977b6bfa)
 
 
 4. Proceed to select the action you are intersted in, Once done paste the below in you header parameter inputting your bearer token. 

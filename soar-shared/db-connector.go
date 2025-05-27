@@ -35,7 +35,7 @@ import (
 	gomemcache "github.com/bradfitz/gomemcache/memcache"
 	"google.golang.org/appengine/memcache"
 
-	//opensearch "github.com/Shashankgupta200/Soar/opensearch-go"
+	//opensearch "github.com/Shashankgupta200/Soar/tree/main/opensearch-go"
 	opensearch "github.com/opensearch-project/opensearch-go"
 	"github.com/opensearch-project/opensearch-go/v2/opensearchapi"
 )

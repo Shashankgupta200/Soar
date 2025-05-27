@@ -1,11 +1,11 @@
-module github.com/Shashankgupta200/Soar/soar-shared
+module github.com/Shashankgupta200/Soar/tree/main/soar-shared
 
 go 1.23.0
 
 toolchain go1.23.1
 
 //replace github.com/frikky/kin-openapi => ../kin-openapi
-//replace github.com/Shashankgupta200/Soar/opensearch-go => ../opensearch-go
+//replace github.com/Shashankgupta200/Soar/tree/main/opensearch-go => ../opensearch-go
 
 require (
 	cloud.google.com/go/datastore v1.15.0
